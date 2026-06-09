@@ -1,2 +1,10 @@
-# Simulation-de-reseau-LAN-en-C
-Ce projet a été réalisé sur Visual Studio Code en groupe de 3 personnes, le but de ce projet était de réaliser un programme en C capable de reproduire le comportement d'un réseau de type LAN.
+# Projet à bas niveau simulant un réseau LAN
+Ce projet est une simulation d'un réseau LAN crée sur Visual Studio Code en C et permet d'avoir des informations sur un réseau LAN ainsi que de gérer ce réseau.
+
+# Description
+
+# Captures d'écran de la console
+
+# Installation du projet
+
+# Fonctionnalités du projet
