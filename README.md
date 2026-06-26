@@ -11,7 +11,7 @@ Avant de continuer, pour pouvoir lancer le programme il faudra être sur Linux.
 1. Télécharger le fichier .zip dans Release
 2. Dézipper le fichier .zip
 3. Aller dans le fichier dézipper , faire un clique droit dans ce dossier puis cliquer sur "Ouvrir dans un terminal"
-4. Taper la commande ./bin/network [nom_du_fichier_texte].txt
+4. Taper la commande ```make``` puis ```./bin/network [nom_du_fichier_texte].txt```
 
 # Fonctionnalités du projet
 - Affichage du réseau
